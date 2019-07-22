@@ -15,7 +15,7 @@ export default () => (
                     <h3 className="title is-4">Credits</h3>
                     <p>Squoosh Desktop App is an offline version of Squoosh app. It's based on <a href="https://electronjs.org/" target="_blank">Electron</a> and works 100% offline without internet connection.</p>
                     <p>Squoosh is an open source product made by <a href="https://github.com/GoogleChromeLabs" target="_blank">Google Chrome Labs</a>.</p>
-                    <p>The desktop app is a project of <a href="http://mebendetto.com" target="_blank">Matias Benedetto</a></p>
+                    <p>The desktop app is a project of <a href="http://mebenedetto.com" target="_blank">Matias Benedetto</a></p>
                 </div>
 
                 <div className="column">
@@ -26,7 +26,7 @@ export default () => (
                 <div className="column">
                     <h3 className="title is-4">Links</h3>
                     <p><a href="https://github.com/matiasbenedetto/squoosh-desktop-app" target="_blank">Project's repo</a></p>
-                    <p><a href="http://mebendetto.com" target="_blank">Author's blog</a></p>
+                    <p><a href="http://mebenedetto.com" target="_blank">Author's blog</a></p>
                     <p><a href="https://squoosh.app" target="_blank">Squoosh web app</a></p>
                     <p><a href="https://github.com/matiasbenedetto/squoosh-desktop-app-website" target="_blank">Website's repo</a></p>
                 </div>
